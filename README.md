@@ -21,12 +21,13 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=su-pa-chai" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=su-pa-chai&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div
+ </div>
 
 
 
+<!-- Skill Views -->
 
-
+ <div>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -47,7 +48,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.icons8.com/ios/48/000000/sql.png" width="48" height="48" alt="SQL" />
+        <img src="sql.png" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
@@ -84,7 +85,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
   </tr>
 </table>
 
-
+ </div>
 
 <!-- Profile Views -->
 
