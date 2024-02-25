@@ -53,7 +53,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.shields.io/badge/AppScript-4285F4?style=flat&logo=google&logoColor=white" width="48" height="48" alt="Appscript" />
+        <img src="Google_Apps_Script.png" width="48" height="48" alt="Appscript" />
       </a>
       <br>Appscript
     </td>
@@ -83,10 +83,6 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
     </td>
   </tr>
 </table>
-
-
-
-
 
 
 
