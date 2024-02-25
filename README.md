@@ -1,15 +1,17 @@
-### Hi there 👋
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Earm Supachai</h3>
+[![Gmail Badge](https://img.shields.io/badge/-supachairatchakoo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:supachairatchakoo@gmail.com"Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-SUPACHAI%20RATCHAKOO-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supachai-ratchakoo-7b969a2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "Connect on LinkedIn")
+[![Line Badge](https://img.shields.io/badge/earmrarm-00C300?style=for-the-badge&logo=line&logoColor=white)]( "Contact on Telegram")
+[
+
 
 
 #### Data Analyst
+I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-<!-- Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>-->
-<!-- Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>-->
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.sql`
 
 
 
