@@ -14,20 +14,14 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.sql`
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/su-pa-chai/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
 
 
 <!-- Profile Views -->
 
 <div align="center" style="margin: 40px;">
-  <a href="https://github.com/su-pa-chai/github-profile-views-counter">
-  <p align="center"> 
+  <a href="https://github.com/su-pa-chai/">
     <img width="123px" src="https://komarev.com/ghpvc/?username=su-pa-chai&label=Profile%20views&color=DE002D&style=flat" alt="Profile views" />
-  </p>
+  </a>
 </div>
 
 <!-- THE END -->
