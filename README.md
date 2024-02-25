@@ -41,13 +41,13 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://img.icons8.com/color/96/000000/javascript.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.icons8.com/ios/50/000000/sql.png" width="48" height="48" alt="SQL" />
+        <img src="https://img.icons8.com/ios/48/000000/sql.png" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
