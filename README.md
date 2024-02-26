@@ -62,22 +62,23 @@ I am passionate ***Data Analyst*** with a keen interest in Data Science, I love 
 <!-- My GitHub -->
 ### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="18px"> My GitHub Stats 
 
-<div style="display: flex;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=su-pa-chai&theme=dark&hide_border=true&border_radius=14" alt="GitHub Streak"   width="400px" height="192px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-pa-chai&layout=compact&theme=dark&hide_border=true&border_radius=8" alt="Top Languages"  width="400px" height="192px"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=su-pa-chai&theme=dark&hide_border=true&border_radius=18" alt="GitHub Streak" width="48%" height="200px">
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-pa-chai&layout=compact&theme=dark&hide_border=true&border_radius=8" alt="Top Languages" width="48%" height="200px">
 </div>
 
 
 <!-- Profile Views -->
 
-<div align="center" style="margin: 40px;">
+<div align="center" style="margin: 50px 0;">
   <a href="https://github.com/su-pa-chai/">
     <img width="123px" src="https://komarev.com/ghpvc/?username=su-pa-chai&label=Profile%20views&color=DE002D&style=flat" alt="Profile views" />
   </a>
 </div>
 
-<!-- THE END -->
 
+<!-- THE END -->
 
 
 <!--
