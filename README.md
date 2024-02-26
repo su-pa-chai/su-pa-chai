@@ -12,25 +12,13 @@
 I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.sql`
-
-
-<!-- My GitHub -->
-###  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 18px> My GitHub Stats 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=su-pa-chai" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=su-pa-chai&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
- </div>
-
-
-
 <!-- Skill Views -->
 
  <div>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
+- ⚙️ I use daily: `.py`,`.ipynb`, `.gs`, `.js`, `.html`, `.css`, `.db`, `.sql`, `.json`, `.csv`, `.xlsx`, `.pbix`
 
 <table>
   <tr>
@@ -86,6 +74,15 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 </table>
 
  </div>
+
+<!-- My GitHub -->
+### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="18px"> My GitHub Stats 
+
+<div style="display: flex;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=su-pa-chai&theme=dark&hide_border=true&border_radius=14" alt="GitHub Streak"   width="500px" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-pa-chai&layout=compact&theme=dark&hide_border=true&border_radius=8" alt="Top Languages"  width="500px" height="192px"/>
+</div>
+
 
 <!-- Profile Views -->
 
