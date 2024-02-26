@@ -67,7 +67,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
         <br>Tableau
       </td>
       <td align="center" width="96">
-        <img src="Line-notify.png" width="48" height="48" alt="Line Notify" />
+        <img src="Line_notify.png" width="48" height="48" alt="Line Notify" />
         <br>Line Notify
       </td>
     </tr>
