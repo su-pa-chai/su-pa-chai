@@ -17,9 +17,21 @@
 </div>
 
 
-### Data Analyst
-I am passionate about Data Science 📈, Pythonic programming 🐍, and open source 👩‍💻. I love to learn and contribute in any and every possible way.
+### About me
+I am passionate ***Data Analyst*** with a keen interest in Data Science, I love to learn and contribute in any and every possible way.
 
+### Key Skills and Expertise:
+ <div>
+<ul>
+    <li>📊 Proficient in data analysis, interpretation, and visualization techniques.</li>
+    <li>🐍 Strong command of Python programming language for data manipulation, modeling, and automation.</li>
+    <li>👩‍💻 Actively contribute to open source projects, fostering collaboration and innovation within the community.</li>
+    <li>📈 Experience in employing machine learning algorithms to derive actionable insights and predictive models.</li>
+    <li>🔍 Skilled in data cleansing, preprocessing, and feature engineering to ensure data integrity and accuracy.</li>
+    <li>🛠️ Familiarity with SQL for database management and querying.</li>
+    <li>📝 Excellent communication skills with the ability to translate complex technical concepts into easily understandable insights.</li>
+</ul>
+ </div>
 
 <!-- Skill Views -->
 ### Favorite Tech
