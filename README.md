@@ -1,11 +1,20 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Earm Supachai</h3>
 
-<!-- contact -->
-[![Gmail Badge](https://img.shields.io/badge/-supachairatchakoo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:supachairatchakoo@gmail.com "Connect via Email") 
-[![Linkedin Badge](https://img.shields.io/badge/-SUPACHAI%20RATCHAKOO-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supachai-ratchakoo-7b969a2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "Connect on LinkedIn") 
-[![Line Badge](https://img.shields.io/badge/earmearm-00C300?style=lat&logo=line&logoColor=white)](https://line.me/ti/p/mFk6933tmb "Contact on Line")
 
+<!-- contact -->
+<div align="center">
+<p align="center">
+    <a href="mailto:supachairatchakoo@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-supachairatchakoo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+    &nbsp;&nbsp;&nbsp; <!-- เพิ่มระยะห่างระหว่างลิงก์ -->
+    <a href="https://www.linkedin.com/in/supachai-ratchakoo-7b969a2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://img.shields.io/badge/-SUPACHAI%20RATCHAKOO-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
+    &nbsp;&nbsp;&nbsp; <!-- เพิ่มระยะห่างระหว่างลิงก์ -->
+    <a href="https://line.me/ti/p/mFk6933tmb" target="_blank">
+        <img src="https://img.shields.io/badge/earmearm-00C300?style=lat&logo=line&logoColor=white" alt="Line Badge"></a>
+</p>
+</div>
 
 
 ### Data Analyst
