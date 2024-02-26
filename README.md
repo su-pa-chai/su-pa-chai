@@ -19,61 +19,54 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 
 > Tools, languages, and other things that I like to work with.
 - ⚙️ I use daily: `.py`,`.ipynb`, `.gs`, `.js`, `.html`, `.css`, `.db`, `.sql`, `.json`, `.csv`, `.xlsx`, `.pbix`
+</div>
 
-<table>
+
+<table style="border: 0px;">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python" />
-      </a>
+      <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/96/000000/javascript.png" width="48" height="48" alt="JavaScript" />
-      </a>
+      <img src="https://img.icons8.com/color/96/000000/javascript.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="sql.png" width="48" height="48" alt="SQL" />
-      </a>
+      <img src="sql.png" width="48" height="48" alt="SQL" />
       <br>SQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="Google_Apps_Script.png" width="48" height="48" alt="Appscript" />
-      </a>
+      <img src="Google_Apps_Script.png" width="48" height="48" alt="Appscript" />
       <br>Appscript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" alt="HTML" />
-      </a>
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" />
-      </a>
+      <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VScode" />
-      </a>
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VScode" />
       <br>VScode
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
-      </a>
+      <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
   </tr>
 </table>
 
- </div>
+
+
+
+
+
+
+
+
 
 <!-- My GitHub -->
 ### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="18px"> My GitHub Stats 
