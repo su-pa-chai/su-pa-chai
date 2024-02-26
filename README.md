@@ -24,56 +24,55 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 <!-- Skill Table -->
 
 <div>
-  <table style="border: 0px;">
+  <table style="border: 0px; width: 768px; font-size: 12px;">
     <tr>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="48" height="48" alt="Microsoft" />
+        <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="24" height="24" alt="Microsoft" />
         <br>Microsoft
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VScode" />
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="24" height="24" alt="VScode" />
         <br>VScode
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python" />
+        <img src="https://img.icons8.com/color/48/000000/python.png" width="24" height="24" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/96/000000/javascript.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://img.icons8.com/color/96/000000/javascript.png" width="24" height="24" alt="JavaScript" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="Google_Apps_Script.png" width="48" height="48" alt="Appscript" />
+        <img src="Google_Apps_Script.png" width="24" height="24" alt="Appscript" />
         <br>Appscript
       </td>
       <td align="center" width="96">
-        <img src="SQL.png" width="48" height="48" alt="SQL" />
+        <img src="SQL.png" width="24" height="24" alt="SQL" />
         <br>SQL
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" alt="HTML" />
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" alt="HTML" />
         <br>HTML
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" />
+        <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24" alt="CSS" />
         <br>CSS
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
+        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24" height="24" alt="Power BI" />
         <br>Power BI
       </td>
       <td align="center" width="96">
-        <img src="Tableau.png" width="48" height="48" alt="Tableau" />
+        <img src="Tableau.png" width="24" height="24" alt="Tableau" />
         <br>Tableau
       </td>
       <td align="center" width="96">
-        <img src="Line_notify.png" width="48" height="48" alt="Line Notify" />
+        <img src="Line_notify.png" width="24" height="24" alt="Line Notify" />
         <br>Line Notify
       </td>
     </tr>
   </table>
 </div>
-
 
 
 
