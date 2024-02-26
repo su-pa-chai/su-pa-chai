@@ -63,9 +63,8 @@ I am passionate ***Data Analyst*** with a keen interest in Data Science, I love 
 ### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="18px"> My GitHub Stats 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=su-pa-chai&theme=dark&hide_border=true&border_radius=18" alt="GitHub Streak" width="48%" height="200px">
-    &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-pa-chai&layout=compact&theme=dark&hide_border=true&border_radius=8" alt="Top Languages" width="48%" height="200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=su-pa-chai&theme=dark&hide_border=true&border_radius=16" alt="GitHub Streak" width="49%" style="height: 188px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-pa-chai&layout=compact&theme=dark&hide_border=true&border_radius=8" alt="Top Languages" width="49%" style="height: 188px;">
 </div>
 
 
