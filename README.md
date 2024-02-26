@@ -9,73 +9,35 @@
 
 
 ### Data Analyst
-I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am passionate about Data Science 📈, Pythonic programming 🐍, and open source 👩‍💻. I love to learn and contribute in any and every possible way.
 
 
 <!-- Skill Views -->
-
+### Favorite Tech
  <div>
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 - ⚙️ I use daily: `.py`,`.ipynb`, `.gs`, `.js`, `.html`, `.css`, `.db`, `.sql`, `.json`, `.csv`, `.xlsx`, `.pbix`
 </div>
 
 <!-- Skill Table -->
-
 <div>
-  <table style="border: 0px; width: 768px; font-size: 5px;">
-    <tr>
-<td align="center" width="96">
-  <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="35" height="35" alt="Microsoft" />
-  Microsoft
-</td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="35" height="35" alt="VScode" />
-        VScode
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/python.png" width="35" height="35" alt="Python" />
-        Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/96/000000/javascript.png" width="35" height="35" alt="JavaScript" />
-        JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="Google_Apps_Script.png" width="35" height="35" alt="Appscript" />
-        Appscript
-      </td>
-      <td align="center" width="96">
-        <img src="SQL.png" width="35" height="35" alt="SQL" />
-       SQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="35" height="35" alt="HTML" />
-        HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" width="35" height="35" alt="CSS" />
-        CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="35" height="35" alt="Power BI" />
-        Power BI
-      </td>
-      <td align="center" width="96">
-        <img src="Tableau.png" width="35" height="35" alt="Tableau" />
-        Tableau
-      </td>
-      <td align="center" width="96">
-        <img src="Line_notify.png" width="35" height="35" alt="Line Notify" />
-      Line Notify
-      </td>
-    </tr>
-  </table>
+    <p align="center">
+        <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="48" height="48" alt="Microsoft" />
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VScode" />
+        <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python" />
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" alt="JavaScript" />
+        <img src="Google_Apps_Script.png" width="48" height="48" alt="Appscript" />
+        <img src="SQL.png" width="48" height="48" alt="SQL" />
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" alt="HTML" />
+        <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" />
+        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
+        <img src="Tableau.png" width="48" height="48" alt="Tableau" />
+        <img src="Line_notify.png" width="48" height="48" alt="Line" />
+    </p>
 </div>
 
-
-
+  
 <!-- My GitHub -->
 ### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="18px"> My GitHub Stats 
 
